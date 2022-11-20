@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.unorder-list-header {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.github-main-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.github-responsive-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Lobster';
+  font-size: 38px;
+  margin-bottom: 48px;
+  text-align: center;
+  margin: 10px;
+}
+
+.repository-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}
